@@ -1,1 +1,2 @@
-CSV task from Odin Project
+Learnt how to manipulate CSV files with Ruby. Project for The Odin Project.
+
